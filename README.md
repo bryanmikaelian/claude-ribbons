@@ -66,8 +66,8 @@ Add the ribbon CSS to your stylesheet and include the HTML element where you wan
 ```css
 .ribbon-top-left {
   position: absolute;
-  top: 25px;
-  left: -35px;
+  top: 60px;
+  left: -60px;
   background: #28a745;
   color: white;
   padding: 10px 50px;
@@ -167,8 +167,8 @@ Here's the complete CSS for all ribbon variations:
 
 .ribbon-top-left {
   position: absolute;
-  top: 25px;
-  left: -35px;
+  top: 60px;
+  left: -60px;
   background: #28a745;
   color: white;
   padding: 10px 50px;

@@ -1,6 +1,8 @@
 # Claude Ribbons
 
-GitHub-style corner ribbons with "Built with Claude" text. Perfect for showcasing projects built using Claude AI.
+GitHub-style corner ribbons with "Built with Claude" text. Perfect for showcasing projects built using Claude AI. Inspired by [GitHub Ribbons](https://github.blog/news-insights/the-library/github-ribbons/).
+
+Demo: https://claude-ribbons.netlify.app/
 
 ## Features
 
